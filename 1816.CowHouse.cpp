@@ -1,4 +1,5 @@
 #include <iostream>
+//통과
 
 class Calculater
 {
