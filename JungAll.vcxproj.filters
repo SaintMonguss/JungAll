@@ -33,5 +33,11 @@
     <ClCompile Include="1495.ZigZag.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2813.Prime.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1158.InsertSort.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
